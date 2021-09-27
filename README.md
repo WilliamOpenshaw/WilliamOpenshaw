@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning how to create and publish a D&D real-time 3D combat game called PrismoRarity. 
 
-        It is being built upon the Fantom crypto network game, Rarity, by Andre Cronje (https://github.com/andrecronje/rarity)
+        It is being built upon the Fantom crypto network game, Rarity, 
+        
+        by Andre Cronje (https://github.com/andrecronje/rarity)
 
         
 - 💞️ I’m looking to collaborate on PrismoRarity, and other projects related to Rarity, such as:
