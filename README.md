@@ -4,16 +4,10 @@
 - 👀 I’m interested in game development, improv, and sketch comedy.
  
 
-- 🌱 I’m currently learning how to create and publish a D&D real-time 3D combat game called PrismoRarity. 
-
-        It is being built upon the Fantom crypto network game, Rarity, 
-        
-        by Andre Cronje (https://github.com/andrecronje/rarity)
+- 🌱 I’m currently making bit-szied games.
 
         
-- 💞️ I’m looking to collaborate on PrismoRarity, and other projects related to Rarity, such as:
- 
-        Rarity Open Mic (https://github.com/andrecronje/rarity/issues/87)
+- 💞️ I’m looking to collaborate on my and other peoples' repositories.
 
         
 - 📫 How to reach me ...
@@ -68,11 +62,3 @@
             My Public Address to Receive XRP rnoVLnzPrLCbjmGR99GPsnJnDWkYkGFUg1
 
                 Trust Wallet: https://link.trustwallet.com/send?coin=144&address=rnoVLnzPrLCbjmGR99GPsnJnDWkYkGFUg1
-
-
-
-
-<!---
-WilliamOpenshaw/WilliamOpenshaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
