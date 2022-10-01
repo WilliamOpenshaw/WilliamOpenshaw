@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @WilliamOpenshaw
+- 👋 Hi, I’m  @WilliamOpenshaw
 
+              OphaTapioka
+
+              ophatapioka.bio.link
 
 - 👀 I’m interested in game development, improv, and sketch comedy.
  
 
-- 🌱 I’m currently making bit-szied games.
+- 🌱 I’m currently making bite-sized games open-source games.
 
         
 - 💞️ I’m looking to collaborate on my and other peoples' repositories.
@@ -20,6 +23,14 @@
         
 
 - 💌 Transfers and Donations (Verify via Twitter & attached links)
+
+        Patreon
+           
+            https://www.patreon.com/ophatapioka
+        
+        Paypal
+            
+            https://www.paypal.com/paypalme/ophatapioka
 
         FTM:
 
