@@ -1,6 +1,4 @@
-- 👋 Hi, I’m  @WilliamOpenshaw
-
-              OphaTapioka
+- 👋 Hi, I’m  @WilliamOpenshaw | OphaTapioka
 
               ophatapioka.bio.link
 
